@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "GS1 Ecuador",
+  "short_name": "GS1 Ecuador",
+  "version": "com.aplios.gs1app",
+  "description": "Buscador de códigos de productos por GTIN y GLN",
+  "author": "Aplios Cia Ltda",
+  "icons": [],
+  "start_url": "index.html"
+}

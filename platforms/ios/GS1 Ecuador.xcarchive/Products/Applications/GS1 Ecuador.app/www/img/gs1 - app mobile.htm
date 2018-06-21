@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://localhost:8000/index.html -->
+<html class="pixel-ratio-3 retina android android-5 android-5-0 watch-active-state"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="apple-touch-icon" href="http://localhost:8000/img/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="http://localhost:8000/img/apple-touch-startup-image-320x460.png">
+<title>gs1 - app mobile</title>
+<link rel="stylesheet" href="./gs1 - app mobile_files/framework7.css">
+<link rel="stylesheet" href="./gs1 - app mobile_files/style.css">
+<link type="text/css" rel="stylesheet" href="./gs1 - app mobile_files/swipebox.css">
+<link href="./gs1 - app mobile_files/css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="./gs1 - app mobile_files/leaflet.css">
+<script src="./gs1 - app mobile_files/leaflet.js"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/cordova.js"></script>
+<script src="./gs1 - app mobile_files/cordova_plugins.js"></script><script src="./gs1 - app mobile_files/device.js"></script><script src="./gs1 - app mobile_files/DeviceProxy.js"></script><script src="./gs1 - app mobile_files/notification.js"></script><script src="./gs1 - app mobile_files/notification(1).js"></script><script src="./gs1 - app mobile_files/splashscreen.js"></script><script src="./gs1 - app mobile_files/SplashScreenProxy.js"></script><script src="./gs1 - app mobile_files/barcodescanner.js"></script><script src="./gs1 - app mobile_files/BarcodeScannerProxy.js"></script></head>
+<body id="mobile_wrap" style="">
+
+    <div class="statusbar-overlay"></div>
+
+    <div class="panel-overlay"></div>
+
+    <div class="panel panel-left panel-cover">
+              <nav class="list-nav">
+                <ul>
+                  <li class="home-icon"><a href="http://localhost:8000/index.html" class="close-panel">Home</a></li>
+                  <li class="logout-icon"><a href="http://localhost:8000/index.html#" onclick="modalSalir();" class="close-panel">Cerrar App</a></li>
+                  <!-- 
+                  <li class="about-icon"><a href="about.html" class="close-panel">About</a></li>
+                  <li class="features-icon"><a href="features.html" class="close-panel">Features</a></li>
+                  <li class="photos-icon"><a href="photos.html" class="close-panel">Gallery</a></li>
+                  <li class="video-icon"><a href="videos.html" class="close-panel">Videos</a></li>
+                  <li class="blog-icon"><a href="blog.html" class="close-panel">Blog</a></li>
+                  <li class="contact-icon"><a href="contact.html" class="close-panel">Contact</a></li>
+                  -->
+                </ul>
+              </nav>  
+    </div>
+
+    <div class="panel panel-right panel-cover">
+      <div class="user_login_info">
+        <h2>Hi, username</h2>
+        <p>Edit your account settings</p>
+              <nav class="list-nav-small">
+                <ul>
+                  <li class="about-icon"><a href="http://localhost:8000/about.html" class="close-panel">Profile</a></li>
+                  <li class="tools-icon"><a href="http://localhost:8000/features.html" class="close-panel">Settings</a></li>
+                  <li class="lock-icon"><a href="http://localhost:8000/features.html" class="close-panel">Account</a></li>
+                  <li class="envelope-icon"><a href="http://localhost:8000/features.html" class="close-panel">Messages</a></li>
+                  <li class="heart-icon"><a href="http://localhost:8000/features.html" class="close-panel">Favorites</a></li>
+                  <li class="download-icon"><a href="http://localhost:8000/features.html" class="close-panel">Downloads</a></li>
+                  <li class="logout-icon"><a href="http://localhost:8000/index.html" class="close-panel">Logout</a></li>
+                </ul>
+              </nav>
+      </div>
+    </div>
+
+    <div class="views">
+
+      <div class="view view-main" data-page="index">
+
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="left sliding"><div class="logo_title">gs1</div></div>
+            <div class="center" style="left: -0.5px;"><div class="logo_title">GEPIR</div></div>
+            <div class="right menu_open_icon"><a href="http://localhost:8000/index.html#" data-panel="left" class="link icon-only open-panel"></a></div>
+          </div>
+        </div>
+
+        <div class="pages navbar-through toolbar-through">
+
+          <div data-page="index" class="page homepage">
+            <div class="page-content">
+
+                  <!-- Slider -->
+                  <div class="swiper-container swiper-init swiper-container-horizontal swiper-container-3d swiper-container-coverflow" data-effect="coverflow" data-pagination=".swiper-pagination">
+                    <div class="swiper-wrapper">
+                      
+                      <div class="swiper-slide swiper-slide-active" style="width: 360px; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg); z-index: 1;">
+                          <img src="./gs1 - app mobile_files/gs1.png" alt="" title="" style="margin-top:110px;">
+                          <span style="margin-top:10px;"></span>
+                          <!-- <span style="margin-top:-10px;">GEPIR</span> -->
+                          <span class="subtitle" style="font-size:16px; line-height: 16px; color:#000040; font-weight:300;">
+                          	GEPIR TOOL es la herramienta que GS1 Ecuador<br> 
+                          	pone a disposición de todos sus afiliados<br>
+                            y otros interesados que tengan la necesidad<br> 
+                            de consultar la empresa o nombre de producto <br>
+                            asignado a un código de barras.<br>
+                          </span>
+                          <a style="margin-top:0px; width:70%; background-color:#002c6c; border:none;" href="http://localhost:8000/index.html#" onclick="scan(&#39;getGTIN&#39;);" class="swiper_read_more">Click para escanear tu producto</a> 
+                          <a style="margin-top:10px; width:70%; background-color:#002c6c; border:none;" href="http://localhost:8000/gpir-ini.html" class="swiper_read_more" id="modal-info">Click para ingresar código GTIN o GLN</a> 
+                      <div class="swiper-slide-shadow-left" style="opacity: 0;"></div><div class="swiper-slide-shadow-right" style="opacity: 0;"></div></div>
+                    </div>
+                    <div class="swiper-pagination"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div>
+                  </div>
+            </div>
+          </div>
+        </div>
+        <!-- Bottom Toolbar-->
+        <div class="toolbar">
+              <div class="toolbar-inner">
+                  <!--
+                  <ul class="toolbar_icons icons_4row">
+                  <li><a href="#" data-popup=".popup-login" class="open-popup"><img src="img/icons/white/user.png" alt="" title="" width="25"/></a></li>
+                  <li><a href="#"><img src="img/icons/white/settings.png" alt="" title="" width="25" /></a></li>
+                  <li><a href="gln-result.html"><img src="img/icons/white/photos.png" alt="" title="" width="25"/></a></li>
+                  <li><a href="#" data-popup=".popup-social" class="open-popup"><img src="img/icons/white/heart.png" alt="" title="" width="25"/></a></li>
+                  </ul>
+                  -->
+              </div>  
+        </div>
+        
+
+      </div>
+    </div>
+    
+    <!-- About Popup -->
+    <div class="popup popup-login">
+    <div class="content-block">
+      <h4>Login</h4>
+            <div class="loginform">
+            <form id="LoginForm" method="post">
+            <label>Username:</label>
+            <input type="text" name="Username" value="" class="form_input required">
+            <label>Password:</label>
+            <input type="password" name="Password" value="" class="form_input required">
+            <!-- <input type="submit" name="submit" class="form_submit" id="submit" value="Login" /> -->
+            </form>
+            </div>
+      <div class="close_popup_button_gray"><a href="http://localhost:8000/index.html#" class="close-popup">Close</a></div>
+    </div>
+    </div>
+    <!-- Services Popup -->
+    <div class="popup popup-social">
+    <div class="content-block">
+      <h4>Social Share</h4>
+      <p>Share icons solution that allows you share and increase your social popularity.</p>
+      <ul class="social_share">
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/twitter.png" alt="" title=""></a></li>
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/facebook.png" alt="" title=""></a></li>
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/googleplus.png" alt="" title=""></a></li>
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/dribbble.png" alt="" title=""></a></li>
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/linkedin.png" alt="" title=""></a></li>
+      <li><a href="http://localhost:8000/index.html#"><img src="./gs1 - app mobile_files/pinterest.png" alt="" title=""></a></li>
+      </ul>
+      <div class="close_popup_button"><a href="http://localhost:8000/index.html#" class="close-popup">Close</a></div>
+    </div>
+    </div>
+    
+<script type="text/javascript" src="./gs1 - app mobile_files/jquery-1.10.1.min.js"></script>
+<script src="./gs1 - app mobile_files/jquery.validate.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/framework7.min.js"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/my-app.js"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/jquery.swipebox.js"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/jquery.fitvids.js"></script>
+<script type="text/javascript" src="./gs1 - app mobile_files/email.js"></script>
+  
+<div class="modal modal-no-buttons modal-in" style="display: block; margin-top: -49px;"><div class="modal-inner"><div class="modal-title">GS1 Ecuador</div><div class="modal-text">Realizando consulta <br><img src="./gs1 - app mobile_files/loading.gif"></div></div><div class="modal-buttons "></div></div><div class="modal-overlay modal-overlay-visible"></div><div class="modal "><div class="modal-inner"><div class="modal-title">GS1 Ecuador</div><div class="modal-text">data.message</div></div><div class="modal-buttons "><span class="modal-button">Entendido</span></div></div></body></html>

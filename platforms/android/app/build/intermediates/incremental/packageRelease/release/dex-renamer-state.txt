@@ -1,0 +1,4 @@
+#Tue Jun 12 11:50:49 ECT 2018
+base.0=/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

@@ -1,0 +1,620 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [:barcodescanner-release-2.1.5:] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:2:1-108:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/127fbb9b3b64ade08a86e7e104a5bfcf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/dd2a74f055f7f3004bcd842069ba0724/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:17:1-31:12
+MERGED from [:CordovaLib] /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/c3af3865407d7fab25a6841a79a49179/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/2326b966c22b40d2290b3a6c640d2512/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/8d9b72679af63d216f1000d47a9d3b4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/67ed70b97281a2e1b7b67c0e52c26af2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/5d22a28e48713d1245b59faf763bcab4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3b9903a0ce321991a26fa12161c5a54e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/db8669420e5d1a62a7b6fda3f262ad90/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:102-129
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:130-188
+	android:versionCode
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:17:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [:barcodescanner-release-2.1.5:] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/AndroidManifest.xml:11:5-12:19
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:49:5-106:19
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:49:5-106:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/127fbb9b3b64ade08a86e7e104a5bfcf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/127fbb9b3b64ade08a86e7e104a5bfcf/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/dd2a74f055f7f3004bcd842069ba0724/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/dd2a74f055f7f3004bcd842069ba0724/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/c3af3865407d7fab25a6841a79a49179/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/c3af3865407d7fab25a6841a79a49179/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/2326b966c22b40d2290b3a6c640d2512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/2326b966c22b40d2290b3a6c640d2512/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/8d9b72679af63d216f1000d47a9d3b4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/8d9b72679af63d216f1000d47a9d3b4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/67ed70b97281a2e1b7b67c0e52c26af2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/67ed70b97281a2e1b7b67c0e52c26af2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/5d22a28e48713d1245b59faf763bcab4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/5d22a28e48713d1245b59faf763bcab4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3b9903a0ce321991a26fa12161c5a54e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3b9903a0ce321991a26fa12161c5a54e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/db8669420e5d1a62a7b6fda3f262ad90/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/db8669420e5d1a62a7b6fda3f262ad90/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#com.aplios.gs1app.MainActivity
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:9-311
+	android:clearTaskOnLaunch
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:19-51
+	android:windowSoftInputMode
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:261-308
+	android:exported
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:114-138
+	android:configChanges
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:52-113
+	android:theme
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:202-260
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:12:139-201
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:13:9-112
+	android:label
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:13:19-40
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:13:41-109
+amazon:enable-feature
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:14:9-159
+	xmlns:amazon
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:14:100-156
+	android:required
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:14:75-99
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:14:32-74
+service#com.onesignal.ADMMessageHandler
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:15:9-92
+	android:exported
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:15:18-42
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:15:43-89
+receiver#com.onesignal.ADMMessageHandler$Receiver
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:permission
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:16:75-139
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:16:19-74
+intent-filter#com.amazon.device.messaging.intent.RECEIVE+com.amazon.device.messaging.intent.REGISTRATION+com.aplios.gs1app
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:17:13-21:29
+action#com.amazon.device.messaging.intent.REGISTRATION
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:18:17-90
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:18:25-87
+action#com.amazon.device.messaging.intent.RECEIVE
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:19:17-85
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:19:25-82
+category#com.aplios.gs1app
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:20:17-62
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:20:27-59
+uses-sdk
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:24:5-74
+MERGED from [:barcodescanner-release-2.1.5:] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/127fbb9b3b64ade08a86e7e104a5bfcf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/127fbb9b3b64ade08a86e7e104a5bfcf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/dd2a74f055f7f3004bcd842069ba0724/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/dd2a74f055f7f3004bcd842069ba0724/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:21:5-23:54
+MERGED from [:CordovaLib] /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/c3af3865407d7fab25a6841a79a49179/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/c3af3865407d7fab25a6841a79a49179/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/2326b966c22b40d2290b3a6c640d2512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/2326b966c22b40d2290b3a6c640d2512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/8d9b72679af63d216f1000d47a9d3b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/8d9b72679af63d216f1000d47a9d3b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/67ed70b97281a2e1b7b67c0e52c26af2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/67ed70b97281a2e1b7b67c0e52c26af2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/5d22a28e48713d1245b59faf763bcab4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/5d22a28e48713d1245b59faf763bcab4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3b9903a0ce321991a26fa12161c5a54e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3b9903a0ce321991a26fa12161c5a54e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/db8669420e5d1a62a7b6fda3f262ad90/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/db8669420e5d1a62a7b6fda3f262ad90/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:24:42-71
+	android:minSdkVersion
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:24:15-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:26:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:27:19-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:28:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:29:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:30:5-84
+	android:required
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:30:58-81
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:30:19-57
+uses-permission#com.amazon.device.messaging.permission.RECEIVE
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:31:22-83
+permission#com.aplios.gs1app.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:32:5-119
+	android:protectionLevel
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:32:81-116
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:32:17-80
+uses-permission#com.aplios.gs1app.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:33:5-88
+	android:name
+		ADDED from /Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/AndroidManifest.xml:33:22-85
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:9:9-63
+permission#com.aplios.gs1app.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:12:22-76
+uses-permission#com.aplios.gs1app.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:18:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:59:13-62
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:63:28-50
+intent-filter#com.aplios.gs1app+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:73:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:76:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:79:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:81:9-83:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:83:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:82:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:84:9-86:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:85:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:88:9-90:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:89:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:92:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:94:9-100:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:94:19-62
+intent-filter#android.intent.action.ACTION_BOOT_COMPLETED+android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:95:13-99:29
+action#android.intent.action.ACTION_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:96:17-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:96:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:97:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:97:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:98:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:98:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:101:9-105:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:101:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:102:13-104:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:103:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.9.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/AndroidManifest.xml:103:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/dedcc703d2063b69eebe6b0aded3ca93/AndroidManifest.xml:32:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/AndroidManifest.xml:24:13-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:36:13-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/6ef156d2e8035db30c01ff59630d214c/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9bab4dd129546f1a01a87b6e3639f459/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/3e015146a065dc89e4b1ba7981817eae/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0bbdcaa8625dcd24d2c4ae71a9967259/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6b4ce4a259029b0958d3a41e7a33f565/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c622487b40d56a8b0e4f06b4d163d58d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3439679a8b39d24ca356307d50ae2cdd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3a8228e44212b419415a557272217224/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/51374de13cd227ee4b087e9fc2e06832/AndroidManifest.xml:26:13-58

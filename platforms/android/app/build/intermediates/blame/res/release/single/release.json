@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_capture.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/capture.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_search_book_contents_header.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/search_book_contents_header.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_search_book_contents.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/search_book_contents.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/menu_capture.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_help.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/raw_beep.ogg.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_onesignal_bgimage_notif_layout.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/layout/onesignal_bgimage_notif_layout.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-land_share.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout-land/share.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_launcher_icon.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_toggle_torch.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable/toggle_torch.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/raw_consumer_onesignal_keep.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/raw/consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/menu_history.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/menu_encode.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_bookmark_picker_list_item.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi_launcher_icon.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_history_list_item.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/history_list_item.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_share.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/share.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_encode.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/encode.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_launcher_icon.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-ldpi_capture.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout-ldpi/capture.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi_launcher_icon.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_flip_camera.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable/flip_camera.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_search_book_contents_list_item.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-land_encode.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout-land/encode.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/xml_preferences.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_share_via_barcode.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/drawable/share_via_barcode.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee37ed1c75544df56b6c826e5c589849/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_os_notification_fallback_white_24dp.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/OneSignal-3.9.1.aar/3c996384c1e2c3f22577294ba79f2688/res/drawable-xxxhdpi-v4/ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b38e70c8bdfce643650b6d4b14978429/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73de4d024cd7841828a49fff15a1ce5b/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/macbookpro/WebstormProjects/gs1EcoppApp/platforms/android/app/build/intermediates/res/merged/release/layout_app_picker_list_item.xml.flat",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/0d7eb4296c2cc86b8be95ad984f8b02c/res/layout/app_picker_list_item.xml"
+    }
+]

@@ -1,0 +1,63 @@
+<div class="pages">
+  <div data-page="projects" class="page no-toolbar no-navbar">
+    <div class="page-content">
+    
+     <div class="navbarpages">
+       <div class="navbar_home_link"><a href="index.html"><img src="img/icons/white/home.png" alt="" title="" /></a></div>
+       <div class="navbar_page_center" style="font-size:24px; font-weight:bold;">GEPIR</div>
+       <div class="menu_open_icon_white">
+       		<a href="#" class="open-panel"><img src="img/menu_open.png" alt="" title="" /></a>
+       </div>
+     </div>
+     <div id="pages_maincontent">
+     	<div class="post_single">
+			<div style="width:100px;margin:0px auto;"><img src="img/gs1.png" alt="" title="" /></div>
+			<p style="text-align:center;"><a href="#" style="color:red; font-weight:bold;" onclick="showModal();">&iquest;Qu&eacute; es el GEPIR TOOL?</a></p>
+			<p style="text-align:justify;">
+          		 Haga clic sobre cada una de las siguientes opciones de acuerdo a la b&uacute;squeda que desea realizar:
+          	</p>
+          </div>
+          
+          <div class="buttons-row">
+                <a href="#tab1" class="tab-link active button">GTIN</a>
+                <a href="#tab2" class="tab-link button">GLN</a>
+          </div>
+          
+          <div class="tabs-animated-wrap">
+                <div class="tabs">
+                      <div id="tab1" class="tab active">
+                      		<div style="padding:20px;">
+                      			<img src="img/caja2.png" width="24%" style="display:inline; float:left;"/>
+                      			<img src="img/caja1.png" width="43%" style="display:inline; float:left;" />
+                      			<img src="img/caja3.png" width="33%" style="display:inline; float:left;"/>
+                      		</div>
+                      		<p style="text-align:center;"><a style="margin-top:0px; width:70%; color:orange;" href="#" onclick="scan('getGTIN');" class="swiper_read_more">Click para escanear c&oacute;digo</a></p>
+                            <div class="commentform" style="margin-top:-30px;">
+	                            <form id="codigo_gtin" class="list-block store-data">
+	                            	<div class="item-title label" style="font-size:12px; padding-bottom:10px;">Ingresa el c&oacute;digo</div>
+	                            	<input type="text" name="codigo" id="codigo" value="" class="form_input" style="width:100%;"/>
+	                            </form>
+	                            <input onclick="searchGtin();" type="submit" name="submit" class="form_submit" id="search-gtin" value="Buscar por c&oacute;digo de producto" />
+                            </div>
+                      </div>
+
+                      <div id="tab2" class="tab">
+                      		<div style="padding:10px 0px 40px 0px;">
+                      			<img src="img/industria1.png" width="40%" style="display:inline; float:left; margin-left:5%;"/>
+                      			<img src="img/industria2.jpg" width="40%" style="display:inline; float:left; margin-left:10%;"/>
+                      		</div>
+                      		<div class="commentform" style="margin-top:40px;">
+	                            <form id="codigo_gln" class="list-block store-data">
+	                            	<div class="item-title label" style="font-size:12px; padding-bottom:10px; margin-top:20px;">Ingresa el c&oacute;digo</div>
+	                            	<input type="text" name="codigogln" id="codigogln" value="" class="form_input" style="width:100%;"/>
+	                            </form>
+	                            <input onclick="searchGln();" type="submit" name="submit" class="form_submit" id="search-gln" value="Buscar por localizaci&oacute;n" />
+                            </div>
+                      </div> 
+                </div>
+          </div>
+      
+      
+    </div>
+  </div>
+</div>
